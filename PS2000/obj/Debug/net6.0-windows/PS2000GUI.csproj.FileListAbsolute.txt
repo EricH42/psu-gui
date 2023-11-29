@@ -1,0 +1,12 @@
+C:\Users\EricH\ikt300\GUI\PS2000\bin\Debug\net6.0-windows\PS2000GUI.deps.json
+C:\Users\EricH\ikt300\GUI\PS2000\bin\Debug\net6.0-windows\PS2000GUI.dll
+C:\Users\EricH\ikt300\GUI\PS2000\bin\Debug\net6.0-windows\PS2000GUI.pdb
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.csproj.AssemblyReference.cache
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.AssemblyInfoInputs.cache
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.AssemblyInfo.cs
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.csproj.CoreCompileInputs.cache
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.dll
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\refint\PS2000GUI.dll
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\PS2000GUI.pdb
+C:\Users\EricH\ikt300\GUI\PS2000\obj\Debug\net6.0-windows\ref\PS2000GUI.dll
