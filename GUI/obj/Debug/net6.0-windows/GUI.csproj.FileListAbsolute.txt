@@ -26,3 +26,4 @@ C:\Users\EricH\ikt300\GUI\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cach
 C:\Users\EricH\ikt300\GUI\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
 C:\Users\EricH\ikt300\GUI\GUI\bin\Debug\net6.0-windows\PS2000GUI.dll
 C:\Users\EricH\ikt300\GUI\GUI\bin\Debug\net6.0-windows\PS2000GUI.pdb
+C:\Users\EricH\ikt300\GUI\GUI\bin\Debug\net6.0-windows\M2Mqtt.Net.dll
