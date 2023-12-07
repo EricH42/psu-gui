@@ -99,6 +99,16 @@
           }
         }
       },
+      "mqttClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/mqttClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mqttClass.dll": {}
+        }
+      },
       "PS2000GUI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -287,6 +297,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "mqttClass/1.0.0": {
+      "type": "project",
+      "path": "../mqttClass/mqttClass.csproj",
+      "msbuildProject": "../mqttClass/mqttClass.csproj"
+    },
     "PS2000GUI/1.0.0": {
       "type": "project",
       "path": "../PS2000/PS2000GUI.csproj",
@@ -296,7 +311,8 @@
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "PS2000GUI >= 1.0.0",
-      "System.IO.Ports >= 7.0.0"
+      "System.IO.Ports >= 7.0.0",
+      "mqttClass >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -326,6 +342,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "C:\\Users\\EricH\\ikt300\\GUI\\mqttClass\\mqttClass.csproj": {
+              "projectPath": "C:\\Users\\EricH\\ikt300\\GUI\\mqttClass\\mqttClass.csproj"
+            },
             "C:\\Users\\EricH\\ikt300\\GUI\\PS2000\\PS2000GUI.csproj": {
               "projectPath": "C:\\Users\\EricH\\ikt300\\GUI\\PS2000\\PS2000GUI.csproj"
             }

@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\mqttClass\mqttClass.csproj" />
     <ProjectReference Include="..\PS2000\PS2000GUI.csproj" />
   </ItemGroup>
 

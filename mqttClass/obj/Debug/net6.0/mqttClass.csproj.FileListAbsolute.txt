@@ -1,0 +1,12 @@
+C:\Users\EricH\ikt300\GUI\mqttClass\bin\Debug\net6.0\mqttClass.deps.json
+C:\Users\EricH\ikt300\GUI\mqttClass\bin\Debug\net6.0\mqttClass.dll
+C:\Users\EricH\ikt300\GUI\mqttClass\bin\Debug\net6.0\mqttClass.pdb
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.csproj.AssemblyReference.cache
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.AssemblyInfoInputs.cache
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.AssemblyInfo.cs
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.csproj.CoreCompileInputs.cache
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.dll
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\refint\mqttClass.dll
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\mqttClass.pdb
+C:\Users\EricH\ikt300\GUI\mqttClass\obj\Debug\net6.0\ref\mqttClass.dll

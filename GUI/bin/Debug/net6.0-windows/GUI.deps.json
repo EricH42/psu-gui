@@ -9,7 +9,8 @@
       "GUI/1.0.0": {
         "dependencies": {
           "PS2000GUI": "1.0.0",
-          "System.IO.Ports": "7.0.0"
+          "System.IO.Ports": "7.0.0",
+          "mqttClass": "1.0.0"
         },
         "runtime": {
           "GUI.dll": {}
@@ -102,6 +103,11 @@
           }
         }
       },
+      "mqttClass/1.0.0": {
+        "runtime": {
+          "mqttClass.dll": {}
+        }
+      },
       "PS2000GUI/1.0.0": {
         "dependencies": {
           "M2Mqtt": "4.3.0",
@@ -174,6 +180,11 @@
       "sha512": "sha512-0nWQjM5IofaIGpvkifN+LLuYwBG6BHlpmphLhhOJepcW12G8qToGuNDRgBzeTVBZzp33wVsESSZ8hUOCfq+8QA==",
       "path": "system.io.ports/7.0.0",
       "hashPath": "system.io.ports.7.0.0.nupkg.sha512"
+    },
+    "mqttClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "PS2000GUI/1.0.0": {
       "type": "project",
